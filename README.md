@@ -1,6 +1,6 @@
 ### Hey!
 
-- You can call me Fox, I'm a 21 year old developer and artist. My primary personal work involves game development and mod development, alongside working with MCC's public API!
+You can call me Fox, I'm a 21 year old developer and artist. My primary personal work involves game development and mod development, alongside working with MCC's public API!
 
 My main programming languages are Java, Python, and C#.
 
