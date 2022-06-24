@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey!
+
+- You can call me Fox, I'm a 21 year old developer and artist. My primary personal work involves game development and mod development, alongside working with MCC's public API!
+
+My main programming languages are Java, Python, and C#.
+
+You can also find me on my [Personal Site](https://fox-art.carrd.co/), [Twitter](https://twitter.com/2bitfox), and [Youtube](https://www.youtube.com/channel/UC3NzDVyocSz-qnH5hF-zg-A)
 
 <!--
 **2bitfox/2bitfox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
