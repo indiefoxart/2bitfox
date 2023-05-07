@@ -8,8 +8,6 @@ My main programming languages are Java, Python, and C#.
 
 You can also find me on my [Personal Site](https://empiressmp.gay/), [fansite](http://scarian.gay/), [tumblr (main)](https://gay.mcyt.xyz/), [tumblr (art)](https://mcyt.xyz/), [Twitter](https://twitter.com/2bitfox) (i don't use twitter), and [Youtube](https://www.youtube.com/channel/UC3NzDVyocSz-qnH5hF-zg-A)
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?2bitfox" frameborder="0"></iframe>
-
 <!--
 **2bitfox/2bitfox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
