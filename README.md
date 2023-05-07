@@ -4,7 +4,7 @@ This is my personal github, to keep my personal projects seperate from what I've
 
 You can call me Fox, I'm an adult developer and artist. My primary personal work involves game development and mod development, alongside working with MCCs public API!
 
-My main programming languages are Java, Python, and C#.
+My main programming languages are PHP, Java, Python, and C#.
 
 You can also find me on my [Personal Site](https://empiressmp.gay/), [fansite](http://scarian.gay/), [tumblr (main)](https://gay.mcyt.xyz/), [tumblr (art)](https://mcyt.xyz/), [Twitter](https://twitter.com/2bitfox) (i don't use twitter), and [Youtube](https://www.youtube.com/channel/UC3NzDVyocSz-qnH5hF-zg-A)
 
